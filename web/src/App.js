@@ -8,7 +8,7 @@ import Products from './products';
 import Brands from './brands'; 
 import About from './about'; 
 import Contact from './contact'; 
-import Closets from './closets'; 
+ 
 
 /*import Home from './home'; 
 import About from './about'; 
@@ -28,7 +28,7 @@ class App extends Component {
               
 
              
-            
+            <br />
          <img src= "logo192.png"  alt="Error 404" />
          <p>Agrawal Sanitation</p>
          <p> 
@@ -67,23 +67,22 @@ class App extends Component {
            className="App-red">
            Products We Deal
          </p>
-         <p><Link to="/"> <img src= "Water Closets.jpg"  alt="Water Closets"  /></Link> &nbsp;  
-         <Route exact path='/closets' component={Closets}></Route>
+         <p><a href= "closets.jpg"><img src= "Water Closets.jpg"  alt="Water Closets"  /></a> &nbsp; 
          <Link to="/"><img src= "Pedestal_Basin.jpg"  alt="Pedestal_Basin" /></Link> &nbsp;
-         <Link to="/"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></Link>&nbsp;  
-         <Link to="/"><img src= "Faucets.jpg"  alt="Faucets" /></Link> &nbsp; 
-         <Link to="/"><img src= "showers.jpg"  alt="showers" /></Link> &nbsp;
-         <Link to="/"><img src= "cistern.jpg"  alt="cistern" /></Link> &nbsp; 
+         <a href= "bathroom.jpg"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></a>&nbsp;  
+         <a href= "faucet.jpg"><img src= "Faucets.jpg"  alt="Faucets" /></a> &nbsp; 
+         <a href= "shower.jpg"><img src= "showers.jpg"  alt="showers" /></a> &nbsp;
+         <a href= "cisterns.jpg"><img src= "cistern.jpg"  alt="cistern" /></a> &nbsp; 
          <Link to="/"><img src= "Urinals.jpg"  alt="Urinals" /></Link></p>
 
-         <p> <Link to="/"><img src= "UPVC Pipes and fittings.png"  alt="UPVC Pipes and fittings" /></Link> &nbsp;
-         <Link to="/"><img src= "CPVC Pipes and fittings.png"  alt="CPVC Pipes and fittings" /></Link>  &nbsp;
-         <Link to="/"><img src= "SWR Pipes and fittings.png"  alt="SWR Pipes and fittings" /></Link> &nbsp; 
-         <Link to="/"><img src= "UDS Pipes and fittings.png"  alt="UDS Pipes and fittings" /></Link>  &nbsp; 
+         <p> <a href= "upvc.jpg"><img src= "UPVC Pipes and fittings.png"  alt="UPVC Pipes and fittings" /></a> &nbsp;
+         <a href= "cpvc.jpg"><img src= "CPVC Pipes and fittings.png"  alt="CPVC Pipes and fittings" /></a>  &nbsp;
+         <a href= "swr.jpg"><img src= "SWR Pipes and fittings.png"  alt="SWR Pipes and fittings" /></a> &nbsp; 
+         <a href= "uds.jpg"><img src= "UDS Pipes and fittings.png"  alt="UDS Pipes and fittings" /></a>  &nbsp; 
          <Link to="/"><img src= "water tanks.jpg"  alt="water tanks" /></Link>  &nbsp; 
-         <Link to="/"><img src= "Adhesives.jpg"  alt="Adhesives" /></Link> &nbsp;
-         <Link to="/"><img src= "Kitchen sink.jpg"  alt="Kitchen sink" /></Link>  &nbsp;
-         <Link to="/"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></Link>  </p>
+         <a href= "adhesive.jpg"><img src= "Adhesives.jpg"  alt="Adhesives" /></a> &nbsp;
+         <a href= "sink.jpg"><img src= "Kitchen sink.jpg"  alt="Kitchen sink" /></a>  &nbsp;
+         <a href= "spares.jpg"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></a>  </p>
        
          
        
@@ -151,7 +150,7 @@ class App extends Component {
          Name:  <br/><input type="text" id="fname" name="fname"></input> <br/>
          Email:<br/><input type="text" id="fname" name="fname"></input><br/>
          Phone:<br/><input type="text" id="fname" name="fname"></input><br/>
-         Enter your message: <input type="text" id="fname" name="fname"></input>
+         Enter your message:<br/> <input type="text" id="fname" name="fname"></input>
          <br></br><button type="button">Send</button></p>
        
       

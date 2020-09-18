@@ -15,7 +15,7 @@ function Products () {
 •	Cistern
 •	Bathroom Accessroies
 •	Kitchen sink
-•	Sanitary spares <br />
+•	Sanitary spares • <br />
 •	uPVC Pipes and Fittings
 •	cPVC Pipes and Fittings
 •	SWR Pipes and Fittings
