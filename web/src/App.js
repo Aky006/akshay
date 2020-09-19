@@ -8,6 +8,7 @@ import Products from './products';
 import Brands from './brands'; 
 import About from './about'; 
 import Contact from './contact'; 
+import Covid from './covid'; 
  
 
 /*import Home from './home'; 
@@ -31,6 +32,7 @@ class App extends Component {
             <br />
          <img src= "logo192.png"  alt="Error 404" />
          <p>Agrawal Sanitation</p>
+         
          <p> 
                 <Link to="/"><button type="button">HOME</button></Link> 
 
@@ -43,6 +45,8 @@ class App extends Component {
                 <Link to="/about"><button type="button">AWARDS & CERTIFICATES</button></Link> 
                
                 <Link to="/contact"><button type="button">CONTACT</button></Link> 
+
+                <Link to="/covid"><button type="button">COVID 19</button></Link>
               </p> 
  
  
@@ -52,12 +56,13 @@ class App extends Component {
               <Route exact path='/brands' component={Brands}></Route> 
               <Route exact path='/products' component={Products}></Route> 
               <Route exact path='/contact' component={Contact}></Route> 
+              <Route exact path='/covid' component={Covid}></Route>
               </Switch>
              
  
  
  
- 
+              <p><img src= "ceramics.jpg"  alt="ceramics" /><img src= "Taps.jpg"  alt="Adhesives" /></p> 
  
  
         
@@ -69,7 +74,7 @@ class App extends Component {
          </p>
          <p><a href= "closets.jpg"><img src= "Water Closets.jpg"  alt="Water Closets"  /></a> &nbsp; 
          <Link to="/"><img src= "Pedestal_Basin.jpg"  alt="Pedestal_Basin" /></Link> &nbsp;
-         <a href= "bathroom.jpg"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></a>&nbsp;  
+         <a href= "bathroom.jpg"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></a> &nbsp;  
          <a href= "faucet.jpg"><img src= "Faucets.jpg"  alt="Faucets" /></a> &nbsp; 
          <a href= "shower.jpg"><img src= "showers.jpg"  alt="showers" /></a> &nbsp;
          <a href= "cisterns.jpg"><img src= "cistern.jpg"  alt="cistern" /></a> &nbsp; 
@@ -83,6 +88,8 @@ class App extends Component {
          <a href= "adhesive.jpg"><img src= "Adhesives.jpg"  alt="Adhesives" /></a> &nbsp;
          <a href= "sink.jpg"><img src= "Kitchen sink.jpg"  alt="Kitchen sink" /></a>  &nbsp;
          <a href= "spares.jpg"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></a>  </p>
+
+         <p><a href= "roff.jpg"><img src= "waterproofing.jpg"  alt="Water Closets"  /></a></p>
        
          
        
@@ -152,13 +159,17 @@ class App extends Component {
          Phone:<br/><input type="text" id="fname" name="fname"></input><br/>
          Enter your message:<br/> <input type="text" id="fname" name="fname"></input>
          <br></br><button type="button">Send</button></p>
-       
+         
+         <p>We are leading retailer of Sanitaryware, Bath Fittings, Faucets, CPVC Pipes, UPVC Pipes, SWR Pipes, UDS Pipes, Pipes Fittings, Water Tank, and Adhesives and Sealants etc. We offer 15+ leading brands under one roof and we are proud of our database of 1000+ satisfied customers.</p>
+         <img src= "clips.png"  alt="Sanitary spares" />
+       <p>© Agrawal Sanitation 2020 All Rights Reserved design and develop by @kshay</p>
       
             </ul> 
             
           </div> 
        </Router> 
        //<div className="App">
+       
        
    ); 
   } 
