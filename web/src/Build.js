@@ -5,7 +5,7 @@ class Build extends Component{
         return <h2>
             
 
-        Since Incorporation in 2001 Under the ownership of Mr. Pankaj Kumar Agrawal, 
+        Since Incorporation in 2002 Under the ownership of Mr. Pankaj Kumar Agrawal, 
         Agrawal Sanitation has distinctly
         emerged as the preferred choice for a discerning range of individuals. <br></br>
         We are the Authorised dealer of Ajay, Ganga, Pidilite, Watertec, Volga, etc. in Lohardaga, Our strong networking, tie-ups with
