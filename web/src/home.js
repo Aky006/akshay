@@ -6,7 +6,7 @@ function Home (){
 
 //class Home extends Component{
     //render(){
-    return <h1>Welcome to Agrawal Sanitation!</h1> 
+    return <h1>Welcome to <i> Agrawal Sanitation</i>!</h1> 
     
 } 
 //}

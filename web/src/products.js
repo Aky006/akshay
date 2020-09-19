@@ -8,19 +8,19 @@ function Products () {
     return <div> 
         <h2>
 •	Water Closets
-•	Wash Basin
+•	Wash Basins
 •	Urinals
 •	Faucets
 •	Showers
 •	Cistern
 •	Bathroom Accessroies
 •	Kitchen sink
-•	Sanitary spares • <br />
-•	uPVC Pipes and Fittings
-•	cPVC Pipes and Fittings
+•	Sanitary spares • <br /><br />
+•	UPVC Pipes and Fittings
+•	CPVC Pipes and Fittings
 •	SWR Pipes and Fittings
 •	UDS Pipes and Fittings
-•	Water Tank
+•	Water Tanks
 •	Adhesives and Sealants
 •
 

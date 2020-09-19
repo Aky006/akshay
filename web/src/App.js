@@ -30,9 +30,14 @@ class App extends Component {
 
              
             <br />
-         <img src= "logo192.png"  alt="Error 404" />
-         <p>Agrawal Sanitation</p>
+            <img src= "logo192.png"  alt="Error 404" />
+            <h7>Agrawal Sanitation</h7>
          
+
+         
+
+
+
          <p> 
                 <Link to="/"><button type="button">HOME</button></Link> 
 
@@ -43,10 +48,12 @@ class App extends Component {
                 <Link to="/products"><button type="button">PRODUCTS WE DEAL</button></Link>
                
                 <Link to="/about"><button type="button">AWARDS & CERTIFICATES</button></Link> 
+
+               
                
                 <Link to="/contact"><button type="button">CONTACT</button></Link> 
 
-                <Link to="/covid"><button type="button">COVID 19</button></Link>
+                <Link to="/covid"><button type="button">COVID-19</button></Link>
               </p> 
  
  
@@ -62,7 +69,7 @@ class App extends Component {
  
  
  
-              <p><img src= "ceramics.jpg"  alt="ceramics" /><img src= "Taps.jpg"  alt="Adhesives" /></p> 
+              <p><img src= "ceramics.jpg"  alt="ceramics" /><img src= "Taps.jpg"  alt="Taps" /></p> 
  
  
         
@@ -70,44 +77,54 @@ class App extends Component {
        
        <p
            className="App-red">
-           Products We Deal
+           PRODUCTS WE DEAL
          </p>
          <p><a href= "closets.jpg"><img src= "Water Closets.jpg"  alt="Water Closets"  /></a> &nbsp; 
          <Link to="/"><img src= "Pedestal_Basin.jpg"  alt="Pedestal_Basin" /></Link> &nbsp;
-         <a href= "bathroom.jpg"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></a> &nbsp;  
-         <a href= "faucet.jpg"><img src= "Faucets.jpg"  alt="Faucets" /></a> &nbsp; 
+         <Link to="/"><img src= "Urinals.jpg"  alt="Urinals" /></Link> &nbsp; 
+        <a href= "faucet.jpg"><img src= "Faucets.jpg"  alt="Faucets" /></a> &nbsp; 
          <a href= "shower.jpg"><img src= "showers.jpg"  alt="showers" /></a> &nbsp;
+         <a href= "bathroom.jpg"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></a> &nbsp; 
          <a href= "cisterns.jpg"><img src= "cistern.jpg"  alt="cistern" /></a> &nbsp; 
-         <Link to="/"><img src= "Urinals.jpg"  alt="Urinals" /></Link></p>
+         </p>
+         <p>Water Closets • Pedestal Basins • Urinals • Faucets • Showers • Bathroom Accessories • Cistern</p>
 
          <p> <a href= "upvc.jpg"><img src= "UPVC Pipes and fittings.png"  alt="UPVC Pipes and fittings" /></a> &nbsp;
          <a href= "cpvc.jpg"><img src= "CPVC Pipes and fittings.png"  alt="CPVC Pipes and fittings" /></a>  &nbsp;
          <a href= "swr.jpg"><img src= "SWR Pipes and fittings.png"  alt="SWR Pipes and fittings" /></a> &nbsp; 
-         <a href= "uds.jpg"><img src= "UDS Pipes and fittings.png"  alt="UDS Pipes and fittings" /></a>  &nbsp; 
+         <a href= "uds.jpg"><img src= "UDS Pipes and fittings.png"  alt="UDS Pipes and fittings" /></a> </p>
+         
+          
+          <p>UPVC Pipes and fittings • CPVC Pipes and fittings • SWR Pipes and fittings • UDS Pipes and fittings  </p>
+         <p>
          <Link to="/"><img src= "water tanks.jpg"  alt="water tanks" /></Link>  &nbsp; 
          <a href= "adhesive.jpg"><img src= "Adhesives.jpg"  alt="Adhesives" /></a> &nbsp;
-         <a href= "sink.jpg"><img src= "Kitchen sink.jpg"  alt="Kitchen sink" /></a>  &nbsp;
-         <a href= "spares.jpg"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></a>  </p>
+         <a href= "spares.jpg"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></a> &nbsp;
+           <a href= "sink.jpg"><img src= "Kitchen sink.jpg"  alt="Kitchen sink" /></a>  &nbsp;
+           </p>
+           <p>Water tanks • Adhesives & Sealants • Sanitary spares • Kitchen sink  </p>
 
-         <p><a href= "roff.jpg"><img src= "waterproofing.jpg"  alt="Water Closets"  /></a></p>
-       
+         <p><a href= "roff.jpg"><img src= "waterproofing.jpg"  alt="waterproofing"  /></a></p>
+         • Water proofing •
          
        
+       <br /><br />
        
        
        
        <p
            className="App-red">
-           Brands We Deal
+           BRANDS WE DEAL
          </p>
+         <p>
        <a
            className="App-link"
            href= "https://www.hindwarehomes.com/"
            target="_blank"
            rel="noopener noreferrer"
          >
-            <img src= "Hindware.jpg"  alt="Hindware" />
-         </a>
+            <img src= "Hindware.jpg"  alt="Hindware" /> 
+         </a> 
        <a
            className="App-link"
            href= "https://ajaypipes.com/"
@@ -131,14 +148,15 @@ class App extends Component {
            rel="noopener noreferrer"
          >
             <img src= "Pidilite.jpg"  alt="Pidilite Pipes" />
-         </a>
+         </a></p>
+         <p>
          <a
            className="App-link"
            href= "http://www.gangabathfittings.com/"
            target="_blank"
            rel="noopener noreferrer"
-         >
-            <img src= "Ganga.png"  alt="Ganga" />
+         > 
+            <img src= "Ganga.png"  alt="Ganga" /> 
          </a>
          <a
            className="App-link"
@@ -147,7 +165,7 @@ class App extends Component {
            rel="noopener noreferrer"
          >
             <img src= "Amogha.png"  alt="Amogha" />
-         </a>
+         </a></p>
          <p
            className="App-red">
            Submit Your Query:
@@ -161,14 +179,14 @@ class App extends Component {
          <br></br><button type="button">Send</button></p>
          
          <p>We are leading retailer of Sanitaryware, Bath Fittings, Faucets, CPVC Pipes, UPVC Pipes, SWR Pipes, UDS Pipes, Pipes Fittings, Water Tank, and Adhesives and Sealants etc. We offer 15+ leading brands under one roof and we are proud of our database of 1000+ satisfied customers.</p>
-         <img src= "clips.png"  alt="Sanitary spares" />
+         <img src= "clips.png"  alt="clips" />
        <p>© Agrawal Sanitation 2020 All Rights Reserved design and develop by @kshay</p>
       
             </ul> 
             
           </div> 
        </Router> 
-       //<div className="App">
+      
        
        
    ); 

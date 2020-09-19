@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: grey;
+  background-color: rgb(10, 104, 148);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +22,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.navbar-brand {
+  padding: 0px; /* firefox bug fix */
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px; /* firefox bug fix */
+  width: auto;
 }
 
 .App-link {
@@ -40,7 +49,7 @@
   font-size: calc(15px + 2vmin);
 }
 .App-blue {
-  color: rgba(7, 54, 116, 0.445);
+  color: rgb(16, 34, 114);
   align-items: center;
   font-size: calc(25px + 2vmin);
 }
