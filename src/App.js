@@ -176,7 +176,7 @@ class App extends Component {
          <br></br><button type="button">Send</button></p>
          
          <p>We are leading retailer of Sanitaryware, Bath Fittings, Faucets, CPVC Pipes, UPVC Pipes, SWR Pipes, UDS Pipes, Pipes Fittings, Water Tank, and Adhesives and Sealants etc. We offer 15+ leading brands under one roof and we are proud of our database of 1000+ satisfied customers.</p>
-         <Link to="/"><img src= "clips.png"  alt="follow us" /></link>
+         <Link to="/"><img src= "clips.png"  alt="follow us" /></Link>
        <p>© Agrawal Sanitation 2020 All Rights Reserved design and develop by @kshay</p>
       
             </ul> 
