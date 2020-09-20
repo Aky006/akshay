@@ -79,6 +79,7 @@ class App extends Component {
            className="App-red">
            PRODUCTS WE DEAL
          </p>
+     * Click in the pictures to see more products * <br />
          <p><a href= "closets.jpg"><img src= "Water Closets.jpg"  alt="Water Closets"  /></a> &nbsp; 
          <Link to="/"><img src= "Pedestal_Basin.jpg"  alt="Pedestal_Basin" /></Link> &nbsp;
          <Link to="/"><img src= "Urinals.jpg"  alt="Urinals" /></Link> &nbsp; 
