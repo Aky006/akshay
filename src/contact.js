@@ -7,11 +7,14 @@
 class Contact extends Component{
     render(){ 
  return <address>  
-            <p>
-            You can find us here:<br /> 
-            Agrawal Sanitation<br /> 
+            
+            You can find us here:
+            <p>  
+            Agrawal Sanitation</p> 
+       <p> 
             Mahavir Chowk <br /> 
-            Lohardaga, Jharkhand (835302) <br /> 
+            Lohardaga, Jharkhand (835302)  </p> 
+       <p> 
             Mob No. : +91-8539073975 
             </p>
         </address> 
