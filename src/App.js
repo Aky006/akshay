@@ -49,8 +49,6 @@ class App extends Component {
                
                 <Link to="/about"><button type="button">AWARDS & CERTIFICATES</button></Link> 
 
-               
-               
                 <Link to="/contact"><button type="button">CONTACT</button></Link> 
 
                 <Link to="/covid"><button type="button">COVID-19</button></Link>
@@ -65,11 +63,7 @@ class App extends Component {
               <Route exact path='/contact' component={Contact}></Route> 
               <Route exact path='/covid' component={Covid}></Route>
               </Switch>
-             
- 
- 
- 
-              <p><img src= "ceramics.jpg"  alt="ceramics" /><img src= "Taps.jpg"  alt="Taps" /></p> 
+             <p><img src= "ceramics.jpg"  alt="ceramics" /><img src= "Taps.jpg"  alt="Taps" /></p> 
  
  
         
