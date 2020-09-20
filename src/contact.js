@@ -9,8 +9,8 @@ class Contact extends Component{
  return <address>  
             
             You can find us here:
-            <p>  
-            Agrawal Sanitation</p> 
+             
+            Agrawal Sanitation 
        <p> 
             Mahavir Chowk <br /> 
             Lohardaga, Jharkhand (835302)  </p> 
