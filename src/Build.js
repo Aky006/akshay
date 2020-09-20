@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 
 class Build extends Component{
     render(){
-        return <h4>
+        return 
+        <div>
+        <h4>
             
 
         Since Incorporation in 2002 Under the ownership of Mr. Pankaj Kumar Agrawal, 
@@ -15,6 +17,7 @@ class Build extends Component{
         with a sublime ambiance to give you a pleasurable shopping experience and overall satisfaction.<br></br>
         Our offered products segments are Sanitary Ware, Bath Fittings, Pipes and Fittings, Water Tank, Adhesives and sealants, etc.
         </h4>
+        </div>
     }
 }
 export default Build ;
