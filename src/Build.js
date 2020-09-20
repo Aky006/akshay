@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Build extends Component{
     render(){
         return 
-        <div>
+     
         <h4>
             
 
@@ -17,7 +17,7 @@ class Build extends Component{
         with a sublime ambiance to give you a pleasurable shopping experience and overall satisfaction.<br></br>
         Our offered products segments are Sanitary Ware, Bath Fittings, Pipes and Fittings, Water Tank, Adhesives and sealants, etc.
         </h4>
-        </div>
+     
     }
 }
 export default Build ;
