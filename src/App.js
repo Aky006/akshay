@@ -103,7 +103,7 @@ class App extends Component {
          <p> Waterproofing Solutions </p>
          
        
-       <br /><br />
+       <br />
        
        
        
