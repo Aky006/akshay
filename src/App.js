@@ -100,7 +100,7 @@ class App extends Component {
          <Link to="/"><img src= "water tanks.jpg"  alt="water tanks" /></Link>  &nbsp; 
          <a href= "adhesive.jpg"><img src= "Adhesives.jpg"  alt="Adhesives" /></a> &nbsp;
          <a href= "spares.jpg"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></a> &nbsp;
-           <a href= "sink.jpg"><img src= "Kitchen sink.jpg"  alt="Kitchen sink" /></a>  &nbsp;
+           <a href= "sink.jpg"><img src= "kitchen sink.jpg"  alt="Kitchen sink" /></a>  &nbsp;
            </p>
            <p>Water tanks • Adhesives & Sealants • Sanitary spares • Kitchen sink  </p>
 
