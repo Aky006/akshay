@@ -8,7 +8,7 @@ class Contact extends Component{
     render(){ 
  return <address>  
             
-            You can find us here:
+            You can find us here:<br /> 
              
             Agrawal Sanitation 
        <p> 
