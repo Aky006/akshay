@@ -105,7 +105,7 @@ class App extends Component {
            <p>Water tanks • Adhesives & Sealants • Sanitary spares • Kitchen sink  </p>
 
          <p><a href= "roff.jpg"><img src= "waterproofing.jpg"  alt="waterproofing"  /></a></p>
-         Waterproofing
+         <p> Waterproofing </p>
          
        
        <br /><br />
