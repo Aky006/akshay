@@ -12,8 +12,9 @@ class Contact extends Component{
             Mahavir Chowk <br /> 
             Lohardaga, Jharkhand (835302) <br /> 
             Mob No. : +91-8539073975 <br />
-            agrawalsanitation2001@gmail.com
+             <p> agrawalsanitation2001@gmail.com </p>
         </address> 
+     
 } 
 }
   
