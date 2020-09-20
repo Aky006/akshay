@@ -18,7 +18,7 @@ Quality :<i> We are committed to supplying the highest quality products and stri
 Value for money :<i> We understand the value of money and ensure that our customers feel completely content about what they spend at Agrawal Sanitation in terms of cost and quality.</i><br /><br />
 Variety of choice :<i> We offer a host of international and national brands and constantly attempt to bring you the latest in the industry.</i>
 </h4> 
-  <h6> Note: This site is not for commercial purpose. The site is hosted as an individual, student-only project. </h6>
+  <h7> [Note: This site is not for commercial purpose. The site is hosted as an individual, student-only project.] </h7>
         
     </div> 
 } 
