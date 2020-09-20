@@ -31,7 +31,7 @@ function Covid () {
            target="_blank"
            rel="noopener noreferrer"
          >
-            http://allnewsnewindia.com/.../18/jharkhand-lohardaga-2145/
+            http://allnewsnewindia.com/
          </a><br />
          <a
            className="App-link"
@@ -39,7 +39,7 @@ function Covid () {
            target="_blank"
            rel="noopener noreferrer"
          >
-            http://www.jharkhandnewsexpress.in/jharkhand-news-926/
+           /www.jharkhandnewsexpress.in/
          </a>
          
 <br />
