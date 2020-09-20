@@ -39,7 +39,7 @@ function Covid () {
            target="_blank"
            rel="noopener noreferrer"
          >
-           /www.jharkhandnewsexpress.in/
+           www.jharkhandnewsexpress.in/
          </a>
          
 <br />
