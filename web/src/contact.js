@@ -11,7 +11,8 @@ class Contact extends Component{
             Agrawal Sanitation<br /> 
             Mahavir Chowk <br /> 
             Lohardaga, Jharkhand (835302) <br /> 
-            Mob No. : +91-8539073975
+            Mob No. : +91-8539073975 <br />
+            Email Id : agrawalsanitation2001@gmail.com
         </address> 
 } 
 }
