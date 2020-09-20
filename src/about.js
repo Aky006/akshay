@@ -8,8 +8,8 @@ function About () {
    // render(){
     return <div> 
         <h4> <p className="App-blue"> Agrawal Sanitation </p>
-<p>Agrawal Sanitation started its journey in 2002. Over the years, we have ventured into new products and services. Today we are a recognized name in the market and we owe a big part of this success to our customers, which has a very good understanding of all our products.<br />
-Agrawal Sanitation focuses on quality assurance with guarantee & warranty products. The main objective is to provide high quality assurance products to its valued customers with competent price. <br />
+<p>Agrawal Sanitation started its journey in 2002. Over the years, we have ventured into new products and services.<br /> Today we are a recognized name in the market and we owe a big part of this success to our customers, which has a very good understanding of all our products.<br />
+Agrawal Sanitation focuses on quality assurance with guarantee & warranty products.<br /> The main objective is to provide high quality assurance products to its valued customers with competent price. <br />
 We provide our products in Lohardaga and also outside the valley (i.e. Chandwa, Latehar, Gumla, e.t.c.) </p>
 
 <p className="App-red">Our Core Values :</p>  
