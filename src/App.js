@@ -74,13 +74,13 @@ class App extends Component {
            PRODUCTS WE DEAL
          </p>
      <h5>[click on the pictures to view more products]</h5>
-         <p><a href= "closets.jpg"><img src= "Water Closets.jpg"  alt="Water Closets"  /></a> &nbsp; 
-         <Link to="/"><img src= "Pedestal_Basin.jpg"  alt="Pedestal_Basin" /></Link> &nbsp;
-         <Link to="/"><img src= "Urinals.jpg"  alt="Urinals" /></Link> &nbsp; 
-        <a href= "faucet.jpg"><img src= "Faucets.jpg"  alt="Faucets" /></a> &nbsp; 
-         <a href= "shower.jpg"><img src= "showers.jpg"  alt="showers" /></a> &nbsp;
-         <a href= "bathroom.jpg"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></a> &nbsp; 
-         <a href= "cisterns.jpg"><img src= "cistern.jpg"  alt="cistern" /></a> &nbsp; 
+         <p><a href= "closets.jpg"><img src= "Water Closets.jpg"  alt="Water Closets"  /></a>  
+         <Link to="/"><img src= "Pedestal_Basin.jpg"  alt="Pedestal_Basin" /></Link> 
+         <Link to="/"><img src= "Urinals.jpg"  alt="Urinals" /></Link>  
+        <a href= "faucet.jpg"><img src= "Faucets.jpg"  alt="Faucets" /></a> 
+         <a href= "shower.jpg"><img src= "showers.jpg"  alt="showers" /></a> 
+         <a href= "bathroom.jpg"><img src= "Bathroom Accessories.jpg"  alt="Bathroom Accessories" /></a>  
+         <a href= "cisterns.jpg"><img src= "cistern.jpg"  alt="cistern" /></a>
          </p>
          <p>Water Closets • Pedestal Basins • Urinals • Faucets • Showers • Bathroom Accessories • Cistern</p>
 
