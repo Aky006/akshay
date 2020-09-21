@@ -92,9 +92,9 @@ class App extends Component {
           
           <p>UPVC Pipes and fittings • CPVC Pipes and fittings • SWR Pipes and fittings • UDS Pipes and fittings  </p>
          <p>
-         <Link to="/"><img src= "water tanks.jpg"  alt="water tanks" /></Link>  &nbsp; 
-         <a href= "adhesive.jpg"><img src= "Adhesives.jpg"  alt="Adhesives" /></a> &nbsp;
-         <a href= "spares.jpg"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></a> &nbsp;
+         <Link to="/"><img src= "water tanks.jpg"  alt="water tanks" /></Link>  
+         <a href= "adhesive.jpg"><img src= "Adhesives.jpg"  alt="Adhesives" /></a> 
+         <a href= "spares.jpg"><img src= "Sanitary spares.jpg"  alt="Sanitary spares" /></a> 
            <a href= "sink.jpg"><img src= "kitchen sink.jpg"  alt="Kitchen sink" /></a>  &nbsp;
            </p>
            <p>Water tanks • Adhesives & Sealants • Sanitary spares • Kitchen sink  </p>
