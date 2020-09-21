@@ -43,11 +43,9 @@ class App extends Component {
 
                 <Link to="/about"><button type="button">ABOUT US</button></Link> 
 
-                
-
                 <Link to="/products"><button type="button">PRODUCTS WE DEAL</button></Link>
 
-<Link to="/brands"><button type="button">BRANDS WE DEAL</button></Link>
+                <Link to="/brands"><button type="button">BRANDS WE DEAL</button></Link>
                
                 <Link to="/about"><button type="button">AWARDS & CERTIFICATES</button></Link> 
 
@@ -104,7 +102,7 @@ class App extends Component {
          <p><a href= "roff.jpg"><img src= "waterproofing.jpg"  alt="waterproofing"  /></a></p>
          <p> Waterproofing Solutions </p>
          
-       
+       <br/>
       
        
        
