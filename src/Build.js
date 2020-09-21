@@ -2,9 +2,7 @@ import React, { Component } from 'react';
 
 class Build extends Component{
     render(){
-        return 
-     
-        <h5>
+        return <h5>
             
 
         Since Incorporation in 2002 Under the ownership of Mr. Pankaj Kumar Agrawal, 
