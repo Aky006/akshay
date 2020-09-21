@@ -84,9 +84,9 @@ class App extends Component {
          </p>
          <p>Water Closets • Pedestal Basins • Urinals • Faucets • Showers • Bathroom Accessories • Cistern</p>
 
-         <p> <a href= "upvc.jpg"><img src= "UPVC Pipes and fittings.png"  alt="UPVC Pipes and fittings" /></a> &nbsp;
-         <a href= "cpvc.jpg"><img src= "CPVC Pipes and fittings.png"  alt="CPVC Pipes and fittings" /></a>  &nbsp;
-         <a href= "swr.jpg"><img src= "SWR Pipes and fittings.png"  alt="SWR Pipes and fittings" /></a> &nbsp; 
+         <p> <a href= "upvc.jpg"><img src= "UPVC Pipes and fittings.png"  alt="UPVC Pipes and fittings" /></a> 
+         <a href= "cpvc.jpg"><img src= "CPVC Pipes and fittings.png"  alt="CPVC Pipes and fittings" /></a>  
+         <a href= "swr.jpg"><img src= "SWR Pipes and fittings.png"  alt="SWR Pipes and fittings" /></a> 
          <a href= "uds.jpg"><img src= "UDS Pipes and fittings.png"  alt="UDS Pipes and fittings" /></a> </p>
          
           
