@@ -9,6 +9,7 @@ import Brands from './brands';
 import About from './about'; 
 import Contact from './contact'; 
 import Covid from './covid'; 
+import Awards from './awards';
  
 
 /*import Home from './home'; 
@@ -60,6 +61,7 @@ class App extends Component {
               <Route exact path='/about' component={About}></Route> 
               <Route exact path='/brands' component={Brands}></Route> 
               <Route exact path='/products' component={Products}></Route> 
+              <Route exact path='/awards' component={Awards}></Route> 
               <Route exact path='/contact' component={Contact}></Route> 
               <Route exact path='/covid' component={Covid}></Route>
               </Switch>
