@@ -150,7 +150,7 @@ class App extends Component {
      
       <a
            className="App-link"
-           href= "http://www.prayagindia.com/"
+           href= "https://www.prayagindia.com/"
            target="_blank"
            rel="noopener noreferrer"
          > 
@@ -167,7 +167,7 @@ class App extends Component {
          </a>
       <a
            className="App-link"
-           href= "http://www.m.eauset.com/products/faucets"
+           href= "http://m.eauset.com/products/faucets/"
            target="_blank"
            rel="noopener noreferrer"
          > 
