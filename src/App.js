@@ -48,7 +48,7 @@ class App extends Component {
 
                 <Link to="/brands"><button type="button">BRANDS WE DEAL</button></Link>
                
-                <Link to="/about"><button type="button">AWARDS & CERTIFICATES</button></Link> 
+                <Link to="/awards"><button type="button">AWARDS & CERTIFICATES</button></Link> 
 
                 <Link to="/contact"><button type="button">CONTACT</button></Link> 
 
