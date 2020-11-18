@@ -155,7 +155,7 @@ class App extends Component {
            rel="noopener noreferrer"
          > 
             <img src= "Prayag.png"  alt="Prayag" /> 
-         </a> _
+         </a>_
      
          <a
            className="App-link"
