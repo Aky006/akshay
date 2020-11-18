@@ -147,6 +147,16 @@ class App extends Component {
             <img src= "Pidilite.jpg"  alt="Pidilite Pipes" />
          </a></p>
          <p>
+     
+      <a
+           className="App-link"
+           href= "http://www.prayagindia.com/"
+           target="_blank"
+           rel="noopener noreferrer"
+         > 
+            <img src= "Prayag.png"  alt="Prayag" /> 
+         </a>
+     
          <a
            className="App-link"
            href= "http://www.gangabathfittings.com/"
@@ -154,6 +164,14 @@ class App extends Component {
            rel="noopener noreferrer"
          > 
             <img src= "Ganga.png"  alt="Ganga" /> 
+         </a>
+      <a
+           className="App-link"
+           href= "http://www.m.eauset.com/products/faucets"
+           target="_blank"
+           rel="noopener noreferrer"
+         > 
+            <img src= "Eauset.png"  alt="Eauset" /> 
          </a>
          <a
            className="App-link"
