@@ -192,6 +192,7 @@ class App extends Component {
          Phone:<br/><input type="text" id="fname" name="fname"></input><br/>
          Enter your message:<br/> <input type="text" id="fname" name="fname"></input>
          <br></br><button type="button">Send</button></p>
+         <input type="submit" onclick="return clicked();" value="Button" />
          
          <p>We are leading retailer of Sanitaryware, Bath Fittings, Faucets, CPVC Pipes, UPVC Pipes, SWR Pipes, UDS Pipes, Pipes Fittings, Water Tank, and Adhesives and Sealants etc. We offer 15+ leading brands under one roof and we are proud of our database of 1000+ satisfied customers.</p>
          <Link to="/"><img src= "clips.png"  alt="follow us" /></Link>
