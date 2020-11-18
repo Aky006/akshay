@@ -171,7 +171,7 @@ class App extends Component {
            target="_blank"
            rel="noopener noreferrer"
          > 
-            <img src= "Eauset.png"  alt="Eauset" /> 
+            <img src= "Eauset.jpg"  alt="Eauset" /> 
          </a>
          <a
            className="App-link"
