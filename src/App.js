@@ -155,7 +155,7 @@ class App extends Component {
            rel="noopener noreferrer"
          > 
             <img src= "Prayag.png"  alt="Prayag" /> 
-         </a> &nbsp
+         </a> _
      
          <a
            className="App-link"
@@ -164,7 +164,7 @@ class App extends Component {
            rel="noopener noreferrer"
          > 
             <img src= "Ganga.png"  alt="Ganga" /> 
-         </a>
+         </a> _
       <a
            className="App-link"
            href= "http://m.eauset.com/products/faucets/"
@@ -172,7 +172,7 @@ class App extends Component {
            rel="noopener noreferrer"
          > 
             <img src= "Eauset.jpg"  alt="Eauset" /> 
-         </a> &nbsp
+         </a> 
          <a
            className="App-link"
            href= "https://www.amoghapolymers.com/"
