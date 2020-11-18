@@ -8,10 +8,12 @@ function Brands () {
     return <div> 
         <h2>
 •	HINDWARE
+•	PRAYAG
+•	GANGA
+•	EAUSET
 •	AJAY
 •	UTKARSH
 •	PIDILITE
-•	GANGA
 •	AMOGHA •
 </h2> 
   
