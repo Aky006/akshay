@@ -26,7 +26,7 @@ class Contact extends Component{
             Mahavir Chowk <br /> 
             Lohardaga, Jharkhand (835302)  <br />
        *we served at this location for over 18 years, now we have moved to a new place mentioned above  <br /> 
-         We value your patronage and look forward to your visit at our new location! 
+         <p>We value your patronage and look forward to your visit at our new location! </p>
          </p> 
       
         </address> 
